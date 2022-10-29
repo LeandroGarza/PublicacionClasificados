@@ -6,7 +6,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Nueva Cordoba",
-        "precio":40000
+        "precio":"40000"
     },
     {
         "id":2,
@@ -15,7 +15,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Nueva Cordoba",
-        "precio":50000
+        "precio":"50000"
     },
     {
         "id":3,
@@ -24,7 +24,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Nueva Cordoba",
-        "precio":60000
+        "precio":"60000"
     },
     {
         "id":4,
@@ -33,7 +33,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Barrio Jardin",
-        "precio":40000
+        "precio":"40000"
     },
     {
         "id":5,
@@ -42,7 +42,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Barrio Jardin",
-        "precio":50000
+        "precio":"50000"
     },
     {
         "id":6,
@@ -51,7 +51,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Barrio Jardin",
-        "precio":60000
+        "precio":"60000"
     },
     {
         "id":7,
@@ -60,7 +60,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Nueva Cordoba",
-        "precio":30000
+        "precio":"30000"
     },
     {
         "id":8,
@@ -69,7 +69,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Nueva Cordoba",
-        "precio":35000
+        "precio":"35000"
     },
     {
         "id":9,
@@ -78,7 +78,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Nueva Cordoba",
-        "precio":45000
+        "precio":"45000"
     },
     {
         "id":10,
@@ -87,7 +87,7 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Barrio Jardin",
-        "precio":95000
+        "precio":"95000"
     },
     {
         "id":11,
@@ -96,6 +96,6 @@
         "provincia":"Cordoba ",
         "ciudad":"Cordoba Capital",
         "barrio":"Alta Cordoba",
-        "precio":30000
+        "precio":"30000"
     }
 ]

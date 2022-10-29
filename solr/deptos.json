@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "titulo":"Departamento amoblado 1 habitacion",
+        "descripcion":"3 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Nueva Cordoba",
+        "precio":40000
+    },
+    {
+        "id":2,
+        "titulo":"Departamento amoblado 2 habitacion",
+        "descripcion":"4 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Nueva Cordoba",
+        "precio":50000
+    },
+    {
+        "id":3,
+        "titulo":"Departamento amoblado 3 habitacion",
+        "descripcion":"4 hambientes, 2 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Nueva Cordoba",
+        "precio":60000
+    },
+    {
+        "id":4,
+        "titulo":"Departamento amoblado 1 habitacion",
+        "descripcion":"3 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Barrio Jardin",
+        "precio":40000
+    },
+    {
+        "id":5,
+        "titulo":"Departamento amoblado 2 habitacion",
+        "descripcion":"4 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Barrio Jardin",
+        "precio":50000
+    },
+    {
+        "id":6,
+        "titulo":"Departamento amoblado 3 habitacion",
+        "descripcion":"5 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Barrio Jardin",
+        "precio":60000
+    },
+    {
+        "id":7,
+        "titulo":"Departamento a estrenar 1 habitacion",
+        "descripcion":"3 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Nueva Cordoba",
+        "precio":30000
+    },
+    {
+        "id":8,
+        "titulo":"Departamento a estrenar 2 habitacion",
+        "descripcion":"4 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Nueva Cordoba",
+        "precio":35000
+    },
+    {
+        "id":9,
+        "titulo":"Departamento a estrenar 3 habitacion",
+        "descripcion":"5 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Nueva Cordoba",
+        "precio":45000
+    },
+    {
+        "id":10,
+        "titulo":"Departamento a estrenar 6 habitacion",
+        "descripcion":"9 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Barrio Jardin",
+        "precio":95000
+    },
+    {
+        "id":11,
+        "titulo":"Departamento amoblado 1 habitacion",
+        "descripcion":"3 hambientes, 1 banio y terraza ",
+        "provincia":"Cordoba ",
+        "ciudad":"Cordoba Capital",
+        "barrio":"Alta Cordoba",
+        "precio":30000
+    }
+]
